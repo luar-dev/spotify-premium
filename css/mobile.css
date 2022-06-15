@@ -1,0 +1,51 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+  background-color: rgb(221, 221, 221);
+}
+
+.card-plan {
+  width: 23%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px rgba(120,120,120,1);
+  margin: 10px;
+  padding: 10px;
+}
+
+.free-mo {
+  background-color: rgb(29, 98, 228);
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.pymt {
+  background-color: white;
+  border: 1px solid rgb(29, 98, 228);
+  color: rgb(29, 98, 228);
+  border-radius: 3px;
+}
+
+.plan-benefits {
+  height: 50%;
+}
+
+.btn-start {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 25px;
+  width: 80%;
+}
+
+.tyc {
+  font-size: 10px;
+}
+
+.tyc span {
+  text-decoration: underline;
+}
